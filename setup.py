@@ -39,7 +39,7 @@ setup(
     },
     install_requires=[
         'click>=2.0',
-        'requests',
+        'requests>=2.4.0',
         'lxml',
         'icalendar>=3.6',
         'requests_toolbelt>=0.3.0'
